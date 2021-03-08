@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background: #352F59;
+    overflow: hidden;
+  }
+  .TwitterHeart {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-image: url(https://abs.twimg.com/a/1446686284/img/t1/web_heart_animation.png);
+    background-position: 0 0;
+    cursor: url("https://image.flaticon.com/icons/png/128/593/593388.png"), auto;
+  }
+  .TwitterHeart:hover {  
+    background-position: -2800px 0;
+  }
+  .ImgPopup {
+    position: absolute;
+    width: 200px;
+    opacity: 0;
+  }
+  .ImgPopup0 {
+    left: 0px;
+    top: 100px;
+    z-index: 100;
+  }
+  .ImgPopup1 {
+    left: 400px;
+    top: 300px;
+    z-index: 101;
+  }
+  .ImgPopup2 {
+    left: 0px;
+    top: 500px;
+    z-index: 102;
+  }
+  .ImgPopup3 {
+    right: 0;
+    top: 0px;
+    z-index: 103;
+  }
+  .ImgPopup4 {
+    right: 0;
+    top: 200px;
+    z-index: 104;
+  }
+  .ImgPopup5 {
+    right: 0;
+    top: 500px;
+    z-index: 105;
+  }
+  .ImgPopup6 {
+    right: 200px;
+    top: 0px;
+    z-index: 106;
+  }
+  .ImgPopup7 {
+    right: 400px;
+    top: 200px;
+    z-index: 107;
+  }
+  .ImgPopup8{
+    right: 200px;
+    top: 400px;
+    z-index: 108
+  }
+  .ImgPopup9{
+    left: 200px;
+    top: 0px;
+    z-index: 109
+  }
+  h1 {
+    color: white;
+    text-align: center;
+  }
