@@ -1,7 +1,7 @@
 let countHeartOver = 0;
 
 let contentHTML = '';
-for (i = 0; i < 200; i++){
+for (i = 0; i < 250; i++){
   contentHTML += `<div id="${i}" class="TwitterHeart"></div>`
 }
   document.body.innerHTML += contentHTML;
