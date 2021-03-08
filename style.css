@@ -49,26 +49,6 @@ body {
     top: 500px;
     z-index: 105;
   }
-  .ImgPopup6 {
-    right: 200px;
-    top: 0px;
-    z-index: 106;
-  }
-  .ImgPopup7 {
-    right: 400px;
-    top: 200px;
-    z-index: 107;
-  }
-  .ImgPopup8{
-    right: 200px;
-    top: 400px;
-    z-index: 108
-  }
-  .ImgPopup9{
-    left: 200px;
-    top: 0px;
-    z-index: 109
-  }
   h1 {
     color: white;
     text-align: center;
